@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @madhavv-xd
-- 👀 I’m interested in 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me social medias
-- 😄 Pronouns: he/him
+Hi , everyone.
 
 
 <!---
