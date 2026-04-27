@@ -55,15 +55,6 @@
 
 ---
 
-## 🎧 Spotify Integration (Live)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=te9o0bvts8gu7ml1qxthxjdq6&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
-</p>
-
-⚠️ Replace `YOUR_SPOTIFY_USER_ID`
-
----
 
 ## 🏆 Achievements
 
