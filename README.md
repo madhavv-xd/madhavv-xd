@@ -25,26 +25,26 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nextjs,nodejs,express,mongodb,solidity,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nextjs,nodejs,typescript,express,mongodb,solidity,tailwind,git,github" />
 </p>
 
 ---
 
 ## 🧩 GitHub 3D Contribution Graph
 
-![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username\&theme=tokyonight)
+![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavv-xd\&theme=tokyonight)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavv-xd&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavv-xd&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavv-xd&layout=compact&theme=tokyonight" />
 </p>
 
 ---
