@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=madhavv-xd&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/madhavv-xd?label=Followers&style=social" />
 </p>
 
 ---
@@ -58,16 +58,10 @@
 ## 🎧 Spotify Integration (Live)
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=te9o0bvts8gu7ml1qxthxjdq6&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
 </p>
 
 ⚠️ Replace `YOUR_SPOTIFY_USER_ID`
-
----
-
-## 🐍 Contribution Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/madhavv-xd/madhavv-xd/output/github-contribution-grid-snake.svg)
 
 ---
 
