@@ -64,12 +64,6 @@
 
 ---
 
-## 💡 Dev Philosophy
-
-> "Build things that shouldn't exist yet."
-
----
-
 ## ⚡ Ultra Cool Add-ons
 
 ### 🧠 Dev Quote API
