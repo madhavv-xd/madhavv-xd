@@ -12,8 +12,6 @@ Hey I'm Madhav , a 3rd year CSE student.<br>I like exploring new things , always
 ![](https://streak-stats.demolab.com/?user=madhavv-xd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=madhavv-xd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://komarev.com/ghpvc/?username=madhavv-xd&icon=1&color=8A2BE2)](https://visitcount.itsvg.in)
