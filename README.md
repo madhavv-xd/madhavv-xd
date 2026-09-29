@@ -16,6 +16,6 @@ Hey I'm Madhav , a 3rd year CSE student.<br>I like exploring new things , always
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=madhavv-xd&icon=1&color=9)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=madhavv-xd&icon=1&color=8A2BE2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
